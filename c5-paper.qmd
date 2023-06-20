@@ -1,0 +1,34 @@
+---
+title: "Final paper"
+author: "your name"
+format: html
+---
+
+```{r setup, message = FALSE, warning = FALSE, error = FALSE}
+library(openintro)
+library(tidyverse)
+library(infer)
+set.seed(1)
+```
+
+# Introduction
+
+# Data and methodology
+
+```{r}
+# For calculating the descriptive statistics of your variables (copy as needed so that numbers show up where you want them in the text)
+```
+
+# Results
+
+```{r}
+# For creating your plot
+```
+
+```{r}
+# For running your hypothesis test
+```
+
+# Discussion and conclusion
+
+# References---delete if none
